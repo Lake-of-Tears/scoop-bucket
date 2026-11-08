@@ -1,0 +1,22 @@
+{
+    "version": "0.2.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Lake-of-Tears/angler/releases/download/v0.2.2/angler_0.2.2_windows_amd64.zip",
+            "bin": [
+                "angler.exe"
+            ],
+            "hash": "c2c3453b6baf2d58feaff6e04d616e9c3f5ef90bf05de44fb0580f3a1adc2fa9"
+        },
+        "arm64": {
+            "url": "https://github.com/Lake-of-Tears/angler/releases/download/v0.2.2/angler_0.2.2_windows_arm64.zip",
+            "bin": [
+                "angler.exe"
+            ],
+            "hash": "24cd0224b828a976d165d8f58918905518ffb80618687ffade8541437883ae00"
+        }
+    },
+    "homepage": "https://thelakeoftears.com",
+    "license": "MIT",
+    "description": "The official CLI for Lake of Tears — cast queries, launch clusters, inspect catalogs, and reel in data"
+}
