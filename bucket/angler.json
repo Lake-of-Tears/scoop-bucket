@@ -1,19 +1,19 @@
 {
-    "version": "0.2.4",
+    "version": "0.2.4-build.55-47f7d10",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Lake-of-Tears/angler/releases/download/v0.2.4/angler_0.2.4_windows_amd64.zip",
+            "url": "https://github.com/Lake-of-Tears/angler/releases/download/v0.2.4-build.55-47f7d10/angler_0.2.4-build.55-47f7d10_windows_amd64.zip",
             "bin": [
                 "angler.exe"
             ],
-            "hash": "b3e2e16d58d43e730ab5bf77ae70fa21ae1b67244319e3dc2eb8a44722e5ee1e"
+            "hash": "2002b15a787f91e776a62da10ba85e3f0825a515b891f3806431434455897d51"
         },
         "arm64": {
-            "url": "https://github.com/Lake-of-Tears/angler/releases/download/v0.2.4/angler_0.2.4_windows_arm64.zip",
+            "url": "https://github.com/Lake-of-Tears/angler/releases/download/v0.2.4-build.55-47f7d10/angler_0.2.4-build.55-47f7d10_windows_arm64.zip",
             "bin": [
                 "angler.exe"
             ],
-            "hash": "53d55f6073c002536e414efbe0ab4581eb57aa42d9f941f6f9985d6c1ff8a789"
+            "hash": "5e219b5af78563ce31a805c84dff3af8fa9cfc3d6566eef71e5b318c13d54d71"
         }
     },
     "homepage": "https://thelakeoftears.com",
